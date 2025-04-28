@@ -1,0 +1,159 @@
+﻿#EXTM3U catchup="append" catchup-source="&offset=-${offset}" catchup-days="3"
+#EXTINF:-1 tvg-id="ntv",НТВ
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=2
+#EXTINF:-1 tvg-id="rossia-24",Россия 24
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8?version=2
+#EXTINF:-1 tvg-id="rbk",РБК
+https://ucdn.beetv.kz/btv/live/hls/000000091.m3u8
+#EXTINF:-1 tvg-id="rbk",РБК
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://s91030.cdn.ngenix.net/hls/CH_R25_RBKTVHD_VLDK/variant.m3u8
+#EXTINF:-1 tvg-id="pervy",Первый канал
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+#EXTINF:-1 tvg-id="rossia1",Россия 1
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+#EXTINF:0 tvg-id="rtr-planeta-azia",Россия РТР
+http://radio-live-mg.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:0 tvg-id="pervy-kanal-eurasia-kz",Первый Евразия
+https://1tvkz-stream.daitsuna.net/1tvkz/1tvkz/1tvkz/1tvkz_720/chunks.m3u8
+#EXTINF:0 tvg-id="izvestia",Известия
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 tvg-id="rentv",РЕН ТВ
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+#EXTINF:-1 tvg-id="tnt",ТНТ
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2
+#EXTINF:-1 tvg-id="mir",Мир
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8?version=2
+#EXTINF:-1 tvg-id="match-tv",Матч
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+#EXTINF:0 tvg-id="no",VHS
+https://v2.catcast.tv/content/37925/index.m3u8
+#EXTINF:-1,Видеокассета
+https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
+#EXTINF:-1,Видеокассета
+http://195.9.195.3:8080/hls/176975.m3u8
+#EXTINF:-1 tvg-id="pervy-gorodskoy-omsk",Первый городской (Омск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_1GORODSKOY/variant.m3u8?version=2
+#EXTINF:-1 tvg-id="12-omsk",12 канал (Омск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8?version=2
+#EXTINF:-1,12_канал_-_ОРТРК_HD
+http://2.60.104.26:1234/udp/225.54.206.41:5000
+#EXTINF:-1,ОРТРК - 12 Канал
+http://tv.newline.in.ua:9007/play/f02g
+#EXTINF:-1 tvg-id="12-omsk",12 канал (Омск)
+https://12channel.bonus-tv.ru/cdn/12channel/playlist_sdhigh.m3u8
+#EXTINF:-1,Muz HD O'zbekiston
+https://st1.uzdigital.tv/Muz_TV/tracks-v2a1/mono.m3u8
+#EXTINF:-1,O'zbekiston 24 TV
+https://st1.uzdigital.tv/Uzb24/tracks-v2a1a2/mono.m3u8
+#EXTINF:-1,UzReport TV
+https://st1.uzdigital.tv/UzreportTV-HD/tracks-v2a1a2/mono.m3u8
+#EXTINF:-1,Dunyo bo'ylab TV
+https://st1.uzdigital.tv/Dunyoboylab_HD/tracks-v2a1a2/mono.m3u8
+#EXTINF:-1,RTVI
+https://ucdn.beetv.kz/btv/live/hls/000000039.m3u8
+#EXTINF:-1 tvg-id="nastoyaschee-vremia",Настоящее время
+http://91.233.215.250:7272/J8BymSQSWStHrzm
+#EXTINF:0 tvg-id="belsat",Белсат
+http://f1.stream.devkom.pro:1063/ramowka/video.m3u8
+#EXTINF:-1 tvg-id="pervy-pl8",Первый канал (+8)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+http://s14553.cdn.ngenix.net/hls/CH_R03_OTT_DV_SLIN_1TV_SLIN/variant.m3u8?version=2
+#EXTINF:-1 tvg-id="ntv-pl7",НТВ (+7)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8?version=2
+#EXTINF:-1 tvg-id="tnt-pl7",ТНТ (+7)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8?version=2
+#EXTINF:-1 tvg-id="muztv",Муз ТВ
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8?version=2
+#EXTINF:-1 tvg-id="muztv-pl4",Муз ТВ (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8?version=2
+#EXTINF:-1 tvg-id="ru-tv",RU TV
+https://hls-03-video.webcaramba.com/rutv/live_480/index.m3u8
+#EXTINF:0 tvg-id="no",Шансон
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+#EXTINF:0 tvg-id="no",Retro Music Tv 
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:0 tvg-id="no",Eurodance 90
+https://autopilot.catcast.me/content/36987/index.m3u8
+#EXTINF:0 tvg-id="no",Eurodance 90
+https://eurodance90.catcast.tv/content/36987/index.m3u8
+#EXTINF:0 tvg-id="no",Dance hits 90
+https://autopilot.catcast.tv/content/39500/index.m3u8
+#EXTINF:0 tvg-id="no",DJ Club
+http://v1.catcast.me/content/37388/index.m3u8
+#EXTINF:0 tvg-id="no",One.by
+http://rtmp.one.by:1200
+#EXTINF:0 tvg-id="no",One.by Россия
+http://rtmp.one.by:2200
+#EXTINF:0 tvg-id="1hd",1 HD
+https://livetv.mylifeisgood.ml/channels/1hdmusic.m3u8
+#EXTINF:0 tvg-id="no",Deejay TV
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
+#EXTINF:-1,NM Television
+https://tv.a21network.ru/content/40650/index.m3u8
+#EXTINF:0 tvg-id="viva-rus",VIVA RUS
+http://autopilot.catcast.tv/content/39575/index.m3u8
+#EXTINF:0 tvg-id="viva-rus",VIVA RUS
+https://s.catcast.tv/content/39575/index.m3u8
+#EXTINF:0 tvg-id="no",Trance Is Stars
+http://tis.catcast.tv/content/391/index.m3u8
+#EXTINF:0 tvg-id="no",Clubbing TV
+https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8
+#EXTINF:0 tvg-id="no",Kronehit
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:0 tvg-id="no",V2BEAT
+http://de1se01.v2beat.live/playlist.m3u8
+#EXTINF:0 tvg-id="no",ВВВ
+http://192.168.1.3:8080/video
+#EXTINF:-1 group-title="Rutube (VPN)",ТНТ Music
+https://bl.rutube.ru/livestream/f5ba23a0149f409c18168231844e0a3b/index.m3u8?s=tsLWX9CQWPcbq-S1orguhA&e=1741161486&scheme=https
+#EXTINF:-1 group-title="Rutube (VPN)",Deluxe Dance
+https://bl.rutube.ru/livestream/47fdffd6ab82bbab0a19039d7018839f/index.m3u8?s=NgYsBf66PA_fcxyjNrXrOA&e=1741161486&scheme=https
+#EXTINF:-1 group-title="Rutube (VPN)",Activa TV
+https://bl.rutube.ru/livestream/8e9da41366fcb497aaeade579f0d715f/index.m3u8?s=XROegky5VpbpTBt_g6YorA&e=1741161487&scheme=https
+#EXTINF:-1 group-title="Rutube (VPN)",MTV Live HD
+https://bl.rutube.ru/livestream/2e8d2bd1b1c868b180482ae78cc98dce/index.m3u8?s=yW7dYss-LN6khhx3ERYI2Q&e=1741161488&scheme=https
+#EXTINF:-1 group-title="Rutube (VPN)",MTV
+https://bl.rutube.ru/livestream/e317f86bd2b387c47ea25cc319e31cd2/index.m3u8?s=s7OqDxdwOsuBStJFQrrHng&e=1741161489&scheme=https
+#EXTINF:-1 group-title="Rutube (VPN)",NOW: Rock
+https://bl.rutube.ru/livestream/047ba54d846ee185b4209a797a2ae138/index.m3u8?s=MQ8x5xflrr-EdTLlyTI4HQ&e=1741161490&scheme=https
+#EXTINF:-1 group-title="Rutube (VPN)",Rock TV
+https://bl.rutube.ru/livestream/516fbcaf6d1634677cb04701d2207e54/index.m3u8?s=wtXgL8WkzxfSAKNiVp5UDQ&e=1741161490&scheme=https
+#EXTINF:-1 group-title="Rutube (VPN)",Record Dance Radio
+https://bl.rutube.ru/livestream/21675e5154442266a0c154f168a6b019/index.m3u8?s=zQOiPTdcWv_zWQcW6j76nw&e=1741161491&scheme=https
+#EXTINF:-1 group-title="Rutube (VPN)",ММТВ
+https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=L7_huFk4avnouWaz__tNvA&e=1741161491&scheme=https
+#EXTINF:-1 group-title="Rutube (VPN)",Zerouno TV
+https://bl.rutube.ru/livestream/9938816973f0cd8df5bcd5ecaab0a387/index.m3u8?s=SGyO8N7aRwa8pjs6wLiITQ&e=1741161492&scheme=https
+#EXTINF:-1 group-title="Rutube (VPN)",МузТВ
+https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=HmwBtShVim-MBJZNKqfVcA&e=1741161493&scheme=https
+#EXTINF:-1 group-title="Rutube (VPN)",VIVA Russia HD
+https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=-r3NKh8ux969ai4_rpLjHw&e=1741161493&scheme=https
+#EXTINF:-1 group-title="Rutube (VPN)",Русский Корабль
+https://bl.rutube.ru/livestream/3ebc361db78373495974123cfb994531/index.m3u8?s=lqgpgj4RbuAncm9m6rUoRQ&e=1741161494&scheme=https
+#EXTINF:-1 tvg-id="TMF RUS",TMF RUS
+http://195.9.195.3:8080/hls/201891.m3u8
+#EXTINF:-1 tvg-id="TMF RUS",TMF RUS
+https://rumble.com/live-hls-dvr/3vhtcn/playlist.m3u8
+#EXTINF:-1 tvg-id="TMF RUS",TMF RUS
+https://media-gateway-cache.nuum.ru/live/4817/index.m3u8
+#EXTINF:-1 tvg-id="TMF RUS",TMF RUS
+https://s.catcast.tv/content/43273/index.m3u8
+#EXTINF:-1 tvg-id="TMF RUS",TMF RUS
+https://autopilot.catcast.tv/content/43273/index.m3u8
+#EXTINF:-1,Nukus TV
+https://st1.uzdigital.tv/Nukus/tracks-v1a1/mono.m3u8
