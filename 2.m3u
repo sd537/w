@@ -120,3 +120,23 @@ https://edge1-eu-west.picarto.tv/stream/hls/golive+TMFRUS/1_0/index.m3u8
 http://s.only4.tv/8984/video.m3u8?token=QUjqDwPhAr
 #EXTINF:-1,Nukus TV
 https://st1.uzdigital.tv/Nukus/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Дорожное Радио - Кекс
+http://hls-01-keks.emgsound.ru/7/playlist.m3u8
+#EXTINF:-1,Дорожное Радио - Танцпол
+http://hls-01-dorognoedancerus.emgsound.ru/50/playlist.m3u8
+#EXTINF:-1,Дорожное Радио - Рок Клуб
+http://hls-01-dorognoe-rock.emgsound.ru/18/playlist.m3u8
+#EXTINF:-1,Новое Радио
+http://hls.newradio.ru/novoeradio/playlist.m3u8
+#EXTINF:-1,Радио 7
+http://hls-01-radio7.emgsound.ru/13/playlist.m3u8
+#EXTINF:-1,Радио Европа Плюс
+http://hls-02-europaplus.emgsound.ru/11/playlist.m3u8
+#EXTINF:-1,Радио Европа Плюс-Rock
+http://hls-01-europaplus-rock.emgsound.ru/europaplus-rock/playlist.m3u8
+#EXTINF:-1,Радио Европа Плюс-TOP 40
+http://hls-01-europaplus-top40.emgsound.ru/21/playlist.m3u8
+#EXTINF:-1,Радио Ретро FM - 90е
+http://hls-01-retro90.emgsound.ru/3/playlist.m3u8
+#EXTINF:-1,Эльдорадио
+http://hls-01-eldoradio.emgsound.ru/4/playlist.m3u8
