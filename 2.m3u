@@ -42,20 +42,8 @@ http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_1GORODSKOY/vari
 #EXTINF:-1 tvg-id="12-omsk",12 канал (Омск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8?version=2
-#EXTINF:-1,12_канал_-_ОРТРК_HD
-http://2.60.104.26:1234/udp/225.54.206.41:5000
-#EXTINF:-1,ОРТРК - 12 Канал
-http://tv.newline.in.ua:9007/play/f02g
 #EXTINF:-1 tvg-id="12-omsk",12 канал (Омск)
 https://12channel.bonus-tv.ru/cdn/12channel/playlist_sdhigh.m3u8
-#EXTINF:-1,Muz HD O'zbekiston
-https://st1.uzdigital.tv/Muz_TV/tracks-v2a1/mono.m3u8
-#EXTINF:-1,O'zbekiston 24 TV
-https://st1.uzdigital.tv/Uzb24/tracks-v2a1a2/mono.m3u8
-#EXTINF:-1,UzReport TV
-https://st1.uzdigital.tv/UzreportTV-HD/tracks-v2a1a2/mono.m3u8
-#EXTINF:-1,Dunyo bo'ylab TV
-https://st1.uzdigital.tv/Dunyoboylab_HD/tracks-v2a1a2/mono.m3u8
 #EXTINF:-1 tvg-id="pervy-pl8",Первый канал (+8)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 http://s14553.cdn.ngenix.net/hls/CH_R03_OTT_DV_SLIN_1TV_SLIN/variant.m3u8?version=2
@@ -116,10 +104,8 @@ http://192.168.1.3:8080/video
 https://live20.bozztv.com/akamaissh101/ssh101/tmfrus/playlist.m3u8
 #EXTINF:-1 tvg-id="TMF RUS",TMF RUS
 https://edge1-eu-west.picarto.tv/stream/hls/golive+TMFRUS/1_0/index.m3u8
-#EXTINF:-1,КК ТВ
-http://s.only4.tv/8984/video.m3u8?token=QUjqDwPhAr
 #EXTINF:-1,Nukus TV
-https://st1.uzdigital.tv/Nukus/tracks-v1a1/mono.m3u8
+http://213.230.65.254:8000/play/a03e
 #EXTINF:-1,Дорожное Радио - Кекс
 http://hls-01-keks.emgsound.ru/7/playlist.m3u8
 #EXTINF:-1,Дорожное Радио - Танцпол
